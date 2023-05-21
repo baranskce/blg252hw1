@@ -1,0 +1,27 @@
+-"evaluate_student()" invoked and student3 sent as an argument which is a object 
+of Student class sent to this method.
+
+-"~Student()" destructor invoked and destroy the student4 which
+is a object of Student class.
+
+-"~Student()" destructor invoked and destroy the student3 which
+is a object of Student class.
+
+-"~Student()" destructor invoked and destroy the student2 which
+is a object of Student class.
+
+-"~Student()" destructor invoked and destroy the student1 which
+is a object of Student class.
+
+-"~University()" destructor invoked and destroy the "university_array[3]" 
+which is a object of University class.
+
+-"~University()" destructor invoked and destroy the "university_array[2]" 
+which is a object of University class.
+
+-"~University()" destructor invoked and destroy the "university_array[1]" 
+which is a object of University class.
+
+-"~University()" destructor invoked and destroy the "university_array[0]" 
+which is a object of University class.
+
